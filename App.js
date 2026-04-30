@@ -92,3 +92,4 @@ function OperacionScreen({ route }) {
     </View>
   );
 }
+// 🟢 Componente principal
