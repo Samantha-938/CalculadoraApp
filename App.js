@@ -30,7 +30,7 @@ function HomeScreen({ navigation }) {
     </View>
   );
 }
-// 🟡 Pantalla de operación
+// operaciones de la pantalla
 function OperacionScreen({ route }) {
   const { tipo } = route.params;
 
